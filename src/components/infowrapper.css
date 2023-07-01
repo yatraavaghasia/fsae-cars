@@ -1,0 +1,9 @@
+.headinginfo {
+    color: #0072BB;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+}
+.headinginfo>h2 {
+    font-weight: 400;
+}
